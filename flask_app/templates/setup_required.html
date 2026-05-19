@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% set title = "Setup required" %}
+
+{% block content %}
+  <div class="panel warning">
+    <h1>Setup required</h1>
+    <p>Baza de date pare goala sau lipseste user-ul demo.</p>
+    <p>Apasa butonul de mai jos ca sa creezi un utilizator admin pentru test.</p>
+    <a class="btn" href="{{ url_for('seed_admin') }}">Creeaza admin demo</a>
+  </div>
+{% endblock %}

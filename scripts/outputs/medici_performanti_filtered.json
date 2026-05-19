@@ -1,0 +1,257 @@
+{
+  "min_consultations": 1,
+  "results": [
+    {
+      "id_medic": 42,
+      "nume_medic": "Dr. Popa",
+      "specializare": "Dermatologie",
+      "nr_consultatii": 4
+    },
+    {
+      "id_medic": 21,
+      "nume_medic": "Dr. Albu",
+      "specializare": "Dermatologie",
+      "nr_consultatii": 3
+    },
+    {
+      "id_medic": 17,
+      "nume_medic": "Dr. Dumitrescu",
+      "specializare": "Dermatologie",
+      "nr_consultatii": 3
+    },
+    {
+      "id_medic": 16,
+      "nume_medic": "Dr. Albu",
+      "specializare": "ORL",
+      "nr_consultatii": 3
+    },
+    {
+      "id_medic": 7,
+      "nume_medic": "Dr. Medic_7",
+      "specializare": "Neurologie",
+      "nr_consultatii": 3
+    },
+    {
+      "id_medic": 4,
+      "nume_medic": "Dr. Medic_4",
+      "specializare": "Cardiologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 36,
+      "nume_medic": "Dr. Diaconu",
+      "specializare": "Cardiologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 30,
+      "nume_medic": "Dr. Barbu",
+      "specializare": "Cardiologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 6,
+      "nume_medic": "Dr. Medic_6",
+      "specializare": "Ginecologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 35,
+      "nume_medic": "Dr. Popa",
+      "specializare": "Dermatologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 26,
+      "nume_medic": "Dr. Stancu",
+      "specializare": "ORL",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 55,
+      "nume_medic": "Dr. Tomescu",
+      "specializare": "Dermatologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 14,
+      "nume_medic": "Dr. Dinu",
+      "specializare": "Neurologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 46,
+      "nume_medic": "Dr. Toma",
+      "specializare": "ORL",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 5,
+      "nume_medic": "Dr. Medic_5",
+      "specializare": "Neurologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 2,
+      "nume_medic": "Dr. Medic_2",
+      "specializare": "Neurologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 34,
+      "nume_medic": "Dr. Manole",
+      "specializare": "Neurologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 31,
+      "nume_medic": "Dr. Preda",
+      "specializare": "Dermatologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 28,
+      "nume_medic": "Dr. Ene",
+      "specializare": "Cardiologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 25,
+      "nume_medic": "Dr. Voinea",
+      "specializare": "Cardiologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 51,
+      "nume_medic": "Dr. Nistor",
+      "specializare": "Neurologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 45,
+      "nume_medic": "Dr. Tudor",
+      "specializare": "Dermatologie",
+      "nr_consultatii": 2
+    },
+    {
+      "id_medic": 1,
+      "nume_medic": "Dr. Medic_1",
+      "specializare": "Ginecologie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 27,
+      "nume_medic": "Dr. Florea",
+      "specializare": "ORL",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 59,
+      "nume_medic": "Dr. Ene",
+      "specializare": "Pediatrie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 24,
+      "nume_medic": "Dr. Stan",
+      "specializare": "ORL",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 56,
+      "nume_medic": "Dr. Toma",
+      "specializare": "ORL",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 53,
+      "nume_medic": "Dr. Nistor",
+      "specializare": "Gastroenterologie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 18,
+      "nume_medic": "Dr. Diaconescu",
+      "specializare": "Cardiologie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 12,
+      "nume_medic": "Dr. Florea",
+      "specializare": "Cardiologie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 32,
+      "nume_medic": "Dr. Tomescu",
+      "specializare": "Cardiologie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 20,
+      "nume_medic": "Dr. Marin",
+      "specializare": "Neurologie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 52,
+      "nume_medic": "Dr. Tudor",
+      "specializare": "Neurologie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 49,
+      "nume_medic": "Dr. Popa",
+      "specializare": "Neurologie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 43,
+      "nume_medic": "Dr. Eftimie",
+      "specializare": "Pediatrie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 40,
+      "nume_medic": "Dr. Popa",
+      "specializare": "Gastroenterologie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 37,
+      "nume_medic": "Dr. Nistor",
+      "specializare": "ORL",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 22,
+      "nume_medic": "Dr. Barbu",
+      "specializare": "Pediatrie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 54,
+      "nume_medic": "Dr. Ionescu",
+      "specializare": "ORL",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 19,
+      "nume_medic": "Dr. Cristea",
+      "specializare": "Cardiologie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 10,
+      "nume_medic": "Dr. Medic_10",
+      "specializare": "Dermatologie",
+      "nr_consultatii": 1
+    },
+    {
+      "id_medic": 39,
+      "nume_medic": "Dr. Diaconu",
+      "specializare": "Neurologie",
+      "nr_consultatii": 1
+    }
+  ]
+}

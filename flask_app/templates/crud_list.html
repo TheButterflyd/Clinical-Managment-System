@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% set title = table_cfg["title"] %}
+
+{% block content %}
+  <div class="page-head">
+    <div>
+      <h1>Gestionare {{ table_cfg["title"] }}</h1>
+      <p class="muted">Vizualizare, adăugare și modificare date clinice securizate</p>
+    </div>
+    <a class="btn" href="{{ url_for('crud_create', table=table) }}">
+      + Adaugă {{ table_cfg["title"] }}
+    </a>
+  </div>
+
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          {% for c in cols %}
+            <th>{{ c | replace('_', ' ') | capitalize }}</th>
+          {% endfor %}
+          <th style="text-align: center;">Acțiuni</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for r in rows %}
+        <tr>
+          {% for v in r %}
+            <td>
+              {# Verificăm dacă valoarea pare a fi un email sau dacă suntem pe coloana de email #}
+              {% if cols[loop.index0] == 'email' %}
+                <span class="email-cell">{{ v if v is not none else '-' }}</span>
+              {% else %}
+                {{ v if v is not none else '-' }}
+              {% endif %}
+            </td>
+          {% endfor %}
+
+          <td class="actions-col" style="display: flex; gap: 10px; justify-content: center;">
+            {% if table_cfg["update_fields"]|length > 0 %}
+              <a class="btn btn-ghost" href="{{ url_for('crud_edit', table=table, rec_id=r[0]) }}">Editează</a>
+            {% else %}
+              <span class="muted" title="Acest tabel nu permite modificări">N/A</span>
+            {% endif %}
+
+            <form method="post" action="{{ url_for('crud_delete', table=table, rec_id=r[0]) }}"
+                  onsubmit="return confirm('Ești sigur că vrei să ștergi înregistrarea cu ID-ul {{ r[0] }}?');">
+              <button class="btn btn-danger" type="submit">Șterge</button>
+            </form>
+          </td>
+        </tr>
+        {% else %}
+        <tr>
+          <td colspan="{{ cols|length + 1 }}" style="text-align: center; padding: 40px;">
+            <p class="muted">Nu au fost găsite înregistrări în tabelul <strong>{{ table_cfg["title"] }}</strong>.</p>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% endblock %}

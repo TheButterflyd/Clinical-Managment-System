@@ -1,0 +1,2452 @@
+[
+  {
+    "id": 252,
+    "nume": "Ada Diaconu",
+    "cnp": "17776913146",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 144,
+    "nume": "Ada Stănescu",
+    "cnp": "237336174523",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 131,
+    "nume": "Adelina Dinu",
+    "cnp": "298689648416",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 207,
+    "nume": "Adi Popescu",
+    "cnp": "71550795046",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 320,
+    "nume": "Adriana Nemeș",
+    "cnp": "80353836199",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 261,
+    "nume": "Aglaia Stan",
+    "cnp": "33099001289",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 317,
+    "nume": "Agnos Stoica",
+    "cnp": "64747652011",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 338,
+    "nume": "Agripina Dochioiu",
+    "cnp": "27024384355",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 285,
+    "nume": "Agripina Tudor",
+    "cnp": "78918515815",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 349,
+    "nume": "Albert Dumitrescu",
+    "cnp": "99297882632",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 314,
+    "nume": "Albert Tabacu",
+    "cnp": "53862301190",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 178,
+    "nume": "Alexandra Mocanu",
+    "cnp": "267015854131",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 230,
+    "nume": "Alexandra Pușcașu",
+    "cnp": "87504693014",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 330,
+    "nume": "Alexandru Dima",
+    "cnp": "85634296373",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 177,
+    "nume": "Alexandru Tudor",
+    "cnp": "285820788288",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 180,
+    "nume": "Alida Toma",
+    "cnp": "278190779110",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 311,
+    "nume": "Anabela Ardelean",
+    "cnp": "43416601257",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 342,
+    "nume": "Anabela Eftimie",
+    "cnp": "50296756585",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 197,
+    "nume": "Andrada Eftimie",
+    "cnp": "284309646779",
+    "nr_consultatii": 2,
+    "total_plata": 400.0
+  },
+  {
+    "id": 142,
+    "nume": "Anemona Niță",
+    "cnp": "117921031377",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 326,
+    "nume": "Aneta Marin",
+    "cnp": "31204999951",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 274,
+    "nume": "Anișoara Florea",
+    "cnp": "21639115043",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 129,
+    "nume": "Anton Mocanu",
+    "cnp": "136133843781",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 244,
+    "nume": "Antoniu Georgescu",
+    "cnp": "88624416365",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 260,
+    "nume": "Arian Cristea",
+    "cnp": "27079764959",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 171,
+    "nume": "Augustina Dobre",
+    "cnp": "169924314813",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 225,
+    "nume": "Aura Nistor",
+    "cnp": "62908173974",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 166,
+    "nume": "Aurica Aanei",
+    "cnp": "173851053576",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 296,
+    "nume": "Barbu Pop",
+    "cnp": "45095025630",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 294,
+    "nume": "Beatrice Cristea",
+    "cnp": "56364782191",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 130,
+    "nume": "Betina Suciu",
+    "cnp": "187190313214",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 340,
+    "nume": "Bogdan Stănescu",
+    "cnp": "35327544314",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 324,
+    "nume": "Bucur Nistor",
+    "cnp": "46596850251",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 290,
+    "nume": "Camelia Albu",
+    "cnp": "28480014342",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 159,
+    "nume": "Cantemir Ioniță",
+    "cnp": "116305562072",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 119,
+    "nume": "Carla Manole",
+    "cnp": "266092580796",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 103,
+    "nume": "Carmina Oprea",
+    "cnp": "180338279062",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 169,
+    "nume": "Carol Oprea",
+    "cnp": "267045996647",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 105,
+    "nume": "Casiana Manole",
+    "cnp": "226319684884",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 120,
+    "nume": "Cătălina Toma",
+    "cnp": "217313445104",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 254,
+    "nume": "Catinca Dima",
+    "cnp": "85433656601",
+    "nr_consultatii": 2,
+    "total_plata": 400.0
+  },
+  {
+    "id": 228,
+    "nume": "Catrinel Dumitrescu",
+    "cnp": "82866132675",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 350,
+    "nume": "Cezar Dinu",
+    "cnp": "05017704044",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 172,
+    "nume": "Claudia Albu",
+    "cnp": "234997930102",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 283,
+    "nume": "Claudiu Dinu",
+    "cnp": "62871371329",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 209,
+    "nume": "Codruța Popa",
+    "cnp": "56397351022",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 117,
+    "nume": "Constanța Marin",
+    "cnp": "285032415652",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 201,
+    "nume": "Constanța Suciu",
+    "cnp": "99752322474",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 162,
+    "nume": "Constantin Toma",
+    "cnp": "257374140174",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 206,
+    "nume": "Coralia Ardelean",
+    "cnp": "74054096768",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 264,
+    "nume": "Coralia Tabacu",
+    "cnp": "39855440529",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 226,
+    "nume": "Corina Tudor",
+    "cnp": "22456896063",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 322,
+    "nume": "Corvin Dinu",
+    "cnp": "13042413483",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 315,
+    "nume": "Costin Suciu",
+    "cnp": "50939514326",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 198,
+    "nume": "Cristian Barbu",
+    "cnp": "278641677423",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 292,
+    "nume": "Dacian Georgescu",
+    "cnp": "23210484407",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 305,
+    "nume": "Daciana Pușcașu",
+    "cnp": "15972215118",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 139,
+    "nume": "Dan Nistor",
+    "cnp": "156387450863",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 335,
+    "nume": "Daniel Barbu",
+    "cnp": "28449515629",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 288,
+    "nume": "Denis Ababei",
+    "cnp": "18659932635",
+    "nr_consultatii": 2,
+    "total_plata": 300.0
+  },
+  {
+    "id": 262,
+    "nume": "Despina Gheorghiu",
+    "cnp": "38794172090",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 183,
+    "nume": "Dida Diaconu",
+    "cnp": "148784712920",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 278,
+    "nume": "Didina Pușcașu",
+    "cnp": "80699021103",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 196,
+    "nume": "Dimitrina Dobre",
+    "cnp": "142895982356",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 108,
+    "nume": "Dochia Nemeș",
+    "cnp": "177281334134",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 194,
+    "nume": "Dochia Nistor",
+    "cnp": "142674867289",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 227,
+    "nume": "Dochia Pușcașu",
+    "cnp": "84865221188",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 272,
+    "nume": "Dochia Pușcașu",
+    "cnp": "09154871954",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 170,
+    "nume": "Dochia Tomescu",
+    "cnp": "207042521323",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 110,
+    "nume": "Dorel Stănescu",
+    "cnp": "219956351442",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 138,
+    "nume": "Dorli Ene",
+    "cnp": "273579676495",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 325,
+    "nume": "Ducu Diaconu",
+    "cnp": "63183709153",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 341,
+    "nume": "Ecaterina Ababei",
+    "cnp": "18589150604",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 323,
+    "nume": "Elena Diaconescu",
+    "cnp": "80931014212",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 310,
+    "nume": "Elena Dinu",
+    "cnp": "67447585721",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 347,
+    "nume": "Elena Ene",
+    "cnp": "79987153212",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 241,
+    "nume": "Eliana Mazilescu",
+    "cnp": "89548979139",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 291,
+    "nume": "Elisabeta Voinea",
+    "cnp": "85707486631",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 265,
+    "nume": "Elodia Voinea",
+    "cnp": "59643632122",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 141,
+    "nume": "Emanoil Pușcașu",
+    "cnp": "122854665252",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 219,
+    "nume": "Emilia Dima",
+    "cnp": "93136074965",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 213,
+    "nume": "Emilian Ionescu",
+    "cnp": "92620349386",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 211,
+    "nume": "Eugenia Stănescu",
+    "cnp": "94089163927",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 293,
+    "nume": "Eustațiu Florea",
+    "cnp": "07060088760",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 212,
+    "nume": "Fabia Gheorghiu",
+    "cnp": "09407559163",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 125,
+    "nume": "Fabian Ababei",
+    "cnp": "131664639041",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 184,
+    "nume": "Fabiana Diaconescu",
+    "cnp": "289212705976",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 146,
+    "nume": "Flavia Florea",
+    "cnp": "204279951093",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 281,
+    "nume": "Florea Barbu",
+    "cnp": "99356689216",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 282,
+    "nume": "Florea Nistor",
+    "cnp": "56047103803",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 332,
+    "nume": "Florentin Ene",
+    "cnp": "95388371522",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 116,
+    "nume": "Florian Tomescu",
+    "cnp": "144379556365",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 256,
+    "nume": "Florica Cristea",
+    "cnp": "79507454172",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 124,
+    "nume": "Francisc Stancu",
+    "cnp": "125986075407",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 149,
+    "nume": "Francisc Tabacu",
+    "cnp": "127729588922",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 147,
+    "nume": "Frusina Marin",
+    "cnp": "169785139597",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 192,
+    "nume": "Gabriel Niță",
+    "cnp": "250455082530",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 279,
+    "nume": "Gabriela Dobre",
+    "cnp": "47959605181",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 259,
+    "nume": "Gabriela Popescu",
+    "cnp": "39095562621",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 328,
+    "nume": "Geanina Voinea",
+    "cnp": "48360735599",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 112,
+    "nume": "Georgel Stancu",
+    "cnp": "266858773472",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 237,
+    "nume": "Georgia Mocanu",
+    "cnp": "23766176371",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 106,
+    "nume": "Georgiana Diaconu",
+    "cnp": "264959343455",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 319,
+    "nume": "Georgiana Niță",
+    "cnp": "70193713188",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 246,
+    "nume": "Gheorghe Popa",
+    "cnp": "95242838885",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 280,
+    "nume": "Gicu Popa",
+    "cnp": "14179024661",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 331,
+    "nume": "Giorgiana Popa",
+    "cnp": "43368833829",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 232,
+    "nume": "Grațiana Stan",
+    "cnp": "53839758540",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 313,
+    "nume": "Gregorian Eftimie",
+    "cnp": "65424506473",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 187,
+    "nume": "Gregorian Mazilescu",
+    "cnp": "133485273582",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 306,
+    "nume": "Horațiu Mazilescu",
+    "cnp": "73988064253",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 173,
+    "nume": "Iancu Dinu",
+    "cnp": "248656872505",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 167,
+    "nume": "Ianis Cristea",
+    "cnp": "201777406482",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 344,
+    "nume": "Ianis Pop",
+    "cnp": "95930443210",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 263,
+    "nume": "Ilarie Albu",
+    "cnp": "06422992012",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 203,
+    "nume": "Ileana Nistor",
+    "cnp": "54393772276",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 164,
+    "nume": "Ilie Pușcașu",
+    "cnp": "268923260833",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 231,
+    "nume": "Ioan Ene",
+    "cnp": "47932634453",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 168,
+    "nume": "Ion Dinu",
+    "cnp": "109958113169",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 189,
+    "nume": "Ion Tudor",
+    "cnp": "146190145382",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 145,
+    "nume": "Ionelia Nemeș",
+    "cnp": "192804093121",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 114,
+    "nume": "Ionică Aanei",
+    "cnp": "142013382920",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 250,
+    "nume": "Ionuț Manole",
+    "cnp": "55482882526",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 137,
+    "nume": "Iosif Tabacu",
+    "cnp": "223750899661",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 217,
+    "nume": "Iridenta Ioniță",
+    "cnp": "72168783594",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 174,
+    "nume": "Irinel Dobre",
+    "cnp": "139540810743",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 215,
+    "nume": "Iurie Ardelean",
+    "cnp": "92634142027",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 175,
+    "nume": "Iustin Mocanu",
+    "cnp": "222786639962",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 302,
+    "nume": "Iustin Voinea",
+    "cnp": "34209084002",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 269,
+    "nume": "Ivona Pop",
+    "cnp": "23320994364",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 339,
+    "nume": "Jan Tomescu",
+    "cnp": "30287293534",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 251,
+    "nume": "Jana Stoica",
+    "cnp": "42048641627",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 258,
+    "nume": "Julia Popescu",
+    "cnp": "26437558525",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 121,
+    "nume": "Julieta Niță",
+    "cnp": "209827871935",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 300,
+    "nume": "Laurenția Voinea",
+    "cnp": "15970337336",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 348,
+    "nume": "Laurențiu Popescu",
+    "cnp": "59634141114",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 224,
+    "nume": "Laurian Mocanu",
+    "cnp": "02214074531",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 218,
+    "nume": "Leopoldina Dochioiu",
+    "cnp": "00738329082",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 205,
+    "nume": "Leordean Dinu",
+    "cnp": "41371385190",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 118,
+    "nume": "Liana Preda",
+    "cnp": "174268114426",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 165,
+    "nume": "Lidia Ionescu",
+    "cnp": "294597336202",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 186,
+    "nume": "Liliana Nistor",
+    "cnp": "251503295604",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 249,
+    "nume": "Lioara Marin",
+    "cnp": "60106876930",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 111,
+    "nume": "Livia Preda",
+    "cnp": "224512441413",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 284,
+    "nume": "Liviu Niță",
+    "cnp": "77878225584",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 247,
+    "nume": "Liviu Popa",
+    "cnp": "84341820114",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 182,
+    "nume": "Loredana Stănescu",
+    "cnp": "233006052398",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 127,
+    "nume": "Lorena Stoica",
+    "cnp": "245517560990",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 133,
+    "nume": "Ludovica Aanei",
+    "cnp": "154090117155",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 132,
+    "nume": "Ludovica Cristea",
+    "cnp": "134291106469",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 122,
+    "nume": "Mădălina Nemeș",
+    "cnp": "216281289785",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 268,
+    "nume": "Manuela Popescu",
+    "cnp": "82645771085",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 221,
+    "nume": "Marga Manole",
+    "cnp": "70067508459",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 253,
+    "nume": "Marga Tabacu",
+    "cnp": "66673536663",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 316,
+    "nume": "Mariana Dima",
+    "cnp": "29417732360",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 289,
+    "nume": "Martin Georgescu",
+    "cnp": "03026167076",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 181,
+    "nume": "Martin Tudor",
+    "cnp": "255372481431",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 271,
+    "nume": "Mihail Tabacu",
+    "cnp": "05446382326",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 126,
+    "nume": "Milena Tomescu",
+    "cnp": "275663002361",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 155,
+    "nume": "Mircea Voinea",
+    "cnp": "158356569592",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 255,
+    "nume": "Mitruț Pop",
+    "cnp": "48189666887",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 208,
+    "nume": "Monalisa Barbu",
+    "cnp": "68493473081",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 336,
+    "nume": "Monalisa Pușcașu",
+    "cnp": "05633078017",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 334,
+    "nume": "Nechifor Aanei",
+    "cnp": "68433804143",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 195,
+    "nume": "Nelu Gheorghiu",
+    "cnp": "275794451472",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 229,
+    "nume": "Nichifor Eftimie",
+    "cnp": "83671763562",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 235,
+    "nume": "Nicoară Dinu",
+    "cnp": "51085617558",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 297,
+    "nume": "Niculina Mocanu",
+    "cnp": "64923337917",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 245,
+    "nume": "Niculina Suciu",
+    "cnp": "98027101509",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 321,
+    "nume": "Nicușor Ene",
+    "cnp": "64869931754",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 150,
+    "nume": "Nicuță Ioniță",
+    "cnp": "129920766077",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 152,
+    "nume": "Nora Florea",
+    "cnp": "160734177903",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 318,
+    "nume": "Norbert Barbu",
+    "cnp": "50251924376",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 101,
+    "nume": "Norman Preda",
+    "cnp": "119191714431",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 240,
+    "nume": "Oana Nistor",
+    "cnp": "54483337064",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 243,
+    "nume": "Oana Toma",
+    "cnp": "12419122158",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 239,
+    "nume": "Octavia Nemeș",
+    "cnp": "90518480094",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 277,
+    "nume": "Octavian Ionescu",
+    "cnp": "13527497288",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 202,
+    "nume": "Olivia Dobre",
+    "cnp": "91195296783",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 1,
+    "nume": "Pacient_Anonim_1",
+    "cnp": "2968305138215",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 10,
+    "nume": "Pacient_Anonim_10",
+    "cnp": "1892947616417",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 100,
+    "nume": "Pacient_Anonim_100",
+    "cnp": "2755877209538",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 11,
+    "nume": "Pacient_Anonim_11",
+    "cnp": "1456737147561",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 12,
+    "nume": "Pacient_Anonim_12",
+    "cnp": "1102741932015",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 13,
+    "nume": "Pacient_Anonim_13",
+    "cnp": "2362640395403",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 14,
+    "nume": "Pacient_Anonim_14",
+    "cnp": "1321324729115",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 15,
+    "nume": "Pacient_Anonim_15",
+    "cnp": "2096288701073",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 16,
+    "nume": "Pacient_Anonim_16",
+    "cnp": "2130993728861",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 17,
+    "nume": "Pacient_Anonim_17",
+    "cnp": "1739881191992",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 18,
+    "nume": "Pacient_Anonim_18",
+    "cnp": "1273103678522",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 19,
+    "nume": "Pacient_Anonim_19",
+    "cnp": "2593579106840",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 2,
+    "nume": "Pacient_Anonim_2",
+    "cnp": "2269407069836",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 20,
+    "nume": "Pacient_Anonim_20",
+    "cnp": "1753403808189",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 21,
+    "nume": "Pacient_Anonim_21",
+    "cnp": "2720909124072",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 22,
+    "nume": "Pacient_Anonim_22",
+    "cnp": "1204811191821",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 23,
+    "nume": "Pacient_Anonim_23",
+    "cnp": "2563727693226",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 24,
+    "nume": "Pacient_Anonim_24",
+    "cnp": "1246974721238",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 25,
+    "nume": "Pacient_Anonim_25",
+    "cnp": "2237745046742",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 26,
+    "nume": "Pacient_Anonim_26",
+    "cnp": "2269718513224",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 27,
+    "nume": "Pacient_Anonim_27",
+    "cnp": "2615452055137",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 28,
+    "nume": "Pacient_Anonim_28",
+    "cnp": "2435324754256",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 29,
+    "nume": "Pacient_Anonim_29",
+    "cnp": "1350035875368",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 3,
+    "nume": "Pacient_Anonim_3",
+    "cnp": "2557265230044",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 30,
+    "nume": "Pacient_Anonim_30",
+    "cnp": "1573862342903",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 31,
+    "nume": "Pacient_Anonim_31",
+    "cnp": "1344077504217",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 32,
+    "nume": "Pacient_Anonim_32",
+    "cnp": "2982093301205",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 33,
+    "nume": "Pacient_Anonim_33",
+    "cnp": "1474119515524",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 34,
+    "nume": "Pacient_Anonim_34",
+    "cnp": "2240482512442",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 35,
+    "nume": "Pacient_Anonim_35",
+    "cnp": "2783097502682",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 36,
+    "nume": "Pacient_Anonim_36",
+    "cnp": "1152506431745",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 37,
+    "nume": "Pacient_Anonim_37",
+    "cnp": "1732010661592",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 38,
+    "nume": "Pacient_Anonim_38",
+    "cnp": "1169248773913",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 39,
+    "nume": "Pacient_Anonim_39",
+    "cnp": "1194037743242",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 4,
+    "nume": "Pacient_Anonim_4",
+    "cnp": "1767315188695",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 40,
+    "nume": "Pacient_Anonim_40",
+    "cnp": "1272521251729",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 41,
+    "nume": "Pacient_Anonim_41",
+    "cnp": "1308367489920",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 42,
+    "nume": "Pacient_Anonim_42",
+    "cnp": "1578354638746",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 43,
+    "nume": "Pacient_Anonim_43",
+    "cnp": "2644800699001",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 44,
+    "nume": "Pacient_Anonim_44",
+    "cnp": "2140166828124",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 45,
+    "nume": "Pacient_Anonim_45",
+    "cnp": "1529021310885",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 46,
+    "nume": "Pacient_Anonim_46",
+    "cnp": "2350109057561",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 47,
+    "nume": "Pacient_Anonim_47",
+    "cnp": "2410480593123",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 48,
+    "nume": "Pacient_Anonim_48",
+    "cnp": "1202830636686",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 49,
+    "nume": "Pacient_Anonim_49",
+    "cnp": "2867037686337",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 5,
+    "nume": "Pacient_Anonim_5",
+    "cnp": "1149343745942",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 50,
+    "nume": "Pacient_Anonim_50",
+    "cnp": "1659202871359",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 51,
+    "nume": "Pacient_Anonim_51",
+    "cnp": "2933044424146",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 52,
+    "nume": "Pacient_Anonim_52",
+    "cnp": "1531016196197",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 53,
+    "nume": "Pacient_Anonim_53",
+    "cnp": "1516485022350",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 54,
+    "nume": "Pacient_Anonim_54",
+    "cnp": "2672428300182",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 55,
+    "nume": "Pacient_Anonim_55",
+    "cnp": "2873211929152",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 56,
+    "nume": "Pacient_Anonim_56",
+    "cnp": "2159853322441",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 57,
+    "nume": "Pacient_Anonim_57",
+    "cnp": "1689541348901",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 58,
+    "nume": "Pacient_Anonim_58",
+    "cnp": "1136452226721",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 59,
+    "nume": "Pacient_Anonim_59",
+    "cnp": "2723997122676",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 6,
+    "nume": "Pacient_Anonim_6",
+    "cnp": "1505198228384",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 60,
+    "nume": "Pacient_Anonim_60",
+    "cnp": "1094256369535",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 61,
+    "nume": "Pacient_Anonim_61",
+    "cnp": "2580913360669",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 62,
+    "nume": "Pacient_Anonim_62",
+    "cnp": "1526523508678",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 63,
+    "nume": "Pacient_Anonim_63",
+    "cnp": "2495339949081",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 64,
+    "nume": "Pacient_Anonim_64",
+    "cnp": "2156235117848",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 65,
+    "nume": "Pacient_Anonim_65",
+    "cnp": "1104490179652",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 66,
+    "nume": "Pacient_Anonim_66",
+    "cnp": "1290071609762",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 67,
+    "nume": "Pacient_Anonim_67",
+    "cnp": "1394792626874",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 68,
+    "nume": "Pacient_Anonim_68",
+    "cnp": "1041877660208",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 69,
+    "nume": "Pacient_Anonim_69",
+    "cnp": "2571214069311",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 7,
+    "nume": "Pacient_Anonim_7",
+    "cnp": "1498749827293",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 70,
+    "nume": "Pacient_Anonim_70",
+    "cnp": "1007340136527",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 71,
+    "nume": "Pacient_Anonim_71",
+    "cnp": "2818351602126",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 72,
+    "nume": "Pacient_Anonim_72",
+    "cnp": "2732018929629",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 73,
+    "nume": "Pacient_Anonim_73",
+    "cnp": "2635483414476",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 74,
+    "nume": "Pacient_Anonim_74",
+    "cnp": "1132456485034",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 75,
+    "nume": "Pacient_Anonim_75",
+    "cnp": "1368934121207",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 76,
+    "nume": "Pacient_Anonim_76",
+    "cnp": "2143199620227",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 77,
+    "nume": "Pacient_Anonim_77",
+    "cnp": "2694552535074",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 78,
+    "nume": "Pacient_Anonim_78",
+    "cnp": "2862380859635",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 79,
+    "nume": "Pacient_Anonim_79",
+    "cnp": "1724783978199",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 8,
+    "nume": "Pacient_Anonim_8",
+    "cnp": "1831429513135",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 80,
+    "nume": "Pacient_Anonim_80",
+    "cnp": "1663173766186",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 81,
+    "nume": "Pacient_Anonim_81",
+    "cnp": "2333386081343",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 82,
+    "nume": "Pacient_Anonim_82",
+    "cnp": "2603696305785",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 83,
+    "nume": "Pacient_Anonim_83",
+    "cnp": "1103513599102",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 84,
+    "nume": "Pacient_Anonim_84",
+    "cnp": "1062003982788",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 85,
+    "nume": "Pacient_Anonim_85",
+    "cnp": "2993576075497",
+    "nr_consultatii": 1,
+    "total_plata": 250.0
+  },
+  {
+    "id": 86,
+    "nume": "Pacient_Anonim_86",
+    "cnp": "2649865764555",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 87,
+    "nume": "Pacient_Anonim_87",
+    "cnp": "2045620532199",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 88,
+    "nume": "Pacient_Anonim_88",
+    "cnp": "2326060281143",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 89,
+    "nume": "Pacient_Anonim_89",
+    "cnp": "1194712725032",
+    "nr_consultatii": 2,
+    "total_plata": 650.0
+  },
+  {
+    "id": 9,
+    "nume": "Pacient_Anonim_9",
+    "cnp": "2671921797479",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 90,
+    "nume": "Pacient_Anonim_90",
+    "cnp": "2642573542838",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 91,
+    "nume": "Pacient_Anonim_91",
+    "cnp": "1846979952953",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 92,
+    "nume": "Pacient_Anonim_92",
+    "cnp": "2398791227215",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 93,
+    "nume": "Pacient_Anonim_93",
+    "cnp": "2066353411172",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 94,
+    "nume": "Pacient_Anonim_94",
+    "cnp": "2444355404269",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 95,
+    "nume": "Pacient_Anonim_95",
+    "cnp": "1888158120657",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 96,
+    "nume": "Pacient_Anonim_96",
+    "cnp": "2854664080812",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 97,
+    "nume": "Pacient_Anonim_97",
+    "cnp": "2441624866297",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 98,
+    "nume": "Pacient_Anonim_98",
+    "cnp": "2524667348606",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 99,
+    "nume": "Pacient_Anonim_99",
+    "cnp": "2485883090134",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 266,
+    "nume": "Paul Pop",
+    "cnp": "37142900842",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 308,
+    "nume": "Paulica Nistor",
+    "cnp": "57712787778",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 216,
+    "nume": "Petronela Mocanu",
+    "cnp": "74016940734",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 104,
+    "nume": "Pleșu Toma",
+    "cnp": "158285964261",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 107,
+    "nume": "Pompilia Nistor",
+    "cnp": "275650514782",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 191,
+    "nume": "Rada Pop",
+    "cnp": "225842888876",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 233,
+    "nume": "Răducu Niță",
+    "cnp": "35837534857",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 123,
+    "nume": "Rafael Gheorghiu",
+    "cnp": "267256187806",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 136,
+    "nume": "Rafila Gheorghiu",
+    "cnp": "276635471504",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 156,
+    "nume": "Ramona Nemeș",
+    "cnp": "169060494642",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 163,
+    "nume": "Raul Ababei",
+    "cnp": "118909948443",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 242,
+    "nume": "Răzvan Nistor",
+    "cnp": "68136027083",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 270,
+    "nume": "Renata Popescu",
+    "cnp": "96733737527",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 115,
+    "nume": "Rodica Tudor",
+    "cnp": "134774832274",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 248,
+    "nume": "Rodica Voinea",
+    "cnp": "23894395400",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 295,
+    "nume": "Romeo Oprea",
+    "cnp": "92368132359",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 333,
+    "nume": "Roza Cristea",
+    "cnp": "15264966334",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 134,
+    "nume": "Sabina Dumitrescu",
+    "cnp": "287067659459",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 337,
+    "nume": "Sabina Stan",
+    "cnp": "91578839001",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 135,
+    "nume": "Salomea Dumitrescu",
+    "cnp": "155920246846",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 312,
+    "nume": "Salomea Gheorghiu",
+    "cnp": "62028546868",
+    "nr_consultatii": 2,
+    "total_plata": 750.0
+  },
+  {
+    "id": 236,
+    "nume": "Salomea Nistor",
+    "cnp": "96016342284",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 143,
+    "nume": "Sanda Marin",
+    "cnp": "219279664825",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 298,
+    "nume": "Sandu Aanei",
+    "cnp": "77372879572",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 327,
+    "nume": "Sandu Georgescu",
+    "cnp": "73510915818",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 113,
+    "nume": "Sandu Mazilescu",
+    "cnp": "243840864633",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 346,
+    "nume": "Sandu Popescu",
+    "cnp": "56733879783",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 190,
+    "nume": "Sandu Tomescu",
+    "cnp": "139787204836",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 303,
+    "nume": "Savina Stoica",
+    "cnp": "23330223144",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 214,
+    "nume": "Savina Tudor",
+    "cnp": "30383215836",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 158,
+    "nume": "Șerban Manole",
+    "cnp": "214610922397",
+    "nr_consultatii": 1,
+    "total_plata": 500.0
+  },
+  {
+    "id": 154,
+    "nume": "Șerban Nistor",
+    "cnp": "206146981255",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 102,
+    "nume": "Sever Dumitrescu",
+    "cnp": "220658403461",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 238,
+    "nume": "Sever Suciu",
+    "cnp": "62720775532",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 140,
+    "nume": "Silviu Oprea",
+    "cnp": "123674664305",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 304,
+    "nume": "Simina Oprea",
+    "cnp": "21099328895",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 299,
+    "nume": "Sorana Dima",
+    "cnp": "23490060913",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 161,
+    "nume": "Speranța Barbu",
+    "cnp": "162605820452",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 309,
+    "nume": "Stancu Ioniță",
+    "cnp": "70244819807",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 210,
+    "nume": "Ștefana Gheorghiu",
+    "cnp": "28154782739",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 222,
+    "nume": "Ștefania Tabacu",
+    "cnp": "21532335573",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 157,
+    "nume": "Steliana Oprea",
+    "cnp": "130205301955",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 160,
+    "nume": "Svetlana Ioniță",
+    "cnp": "291365056651",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 275,
+    "nume": "Teea Ene",
+    "cnp": "79082393235",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 267,
+    "nume": "Teodosia Nemeș",
+    "cnp": "87455851456",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 148,
+    "nume": "Teohari Ionescu",
+    "cnp": "151279116922",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 128,
+    "nume": "Tiberiu Dinu",
+    "cnp": "117549956295",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 185,
+    "nume": "Tiberiu Tomescu",
+    "cnp": "272545711282",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 257,
+    "nume": "Titus Dobre",
+    "cnp": "92453747695",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 220,
+    "nume": "Tudora Diaconescu",
+    "cnp": "18321589530",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 286,
+    "nume": "Tudorița Ardelean",
+    "cnp": "03979452574",
+    "nr_consultatii": 2,
+    "total_plata": 650.0
+  },
+  {
+    "id": 151,
+    "nume": "Tudorița Manole",
+    "cnp": "224479084217",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 188,
+    "nume": "Tudosia Toma",
+    "cnp": "183101378362",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 345,
+    "nume": "Valentina Barbu",
+    "cnp": "28900578533",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 176,
+    "nume": "Valentina Niță",
+    "cnp": "193880713414",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 343,
+    "nume": "Valeria Ene",
+    "cnp": "46825598235",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 287,
+    "nume": "Valeriu Dumitrescu",
+    "cnp": "13384072548",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 193,
+    "nume": "Valeriu Voinea",
+    "cnp": "190883456237",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 179,
+    "nume": "Vasilica Popa",
+    "cnp": "233026586741",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 276,
+    "nume": "Vicențiu Mocanu",
+    "cnp": "09912659072",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 200,
+    "nume": "Vicențiu Nistor",
+    "cnp": "252597270653",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 199,
+    "nume": "Vicențiu Pop",
+    "cnp": "278666175747",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 273,
+    "nume": "Victor Dinu",
+    "cnp": "67683989032",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 153,
+    "nume": "Vincențiu Georgescu",
+    "cnp": "270598493983",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 223,
+    "nume": "Violeta Nemeș",
+    "cnp": "78896077479",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 234,
+    "nume": "Viorel Nistor",
+    "cnp": "33567322809",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 204,
+    "nume": "Viorel Voinea",
+    "cnp": "03109436056",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 109,
+    "nume": "Virginia Dochioiu",
+    "cnp": "297722820483",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 301,
+    "nume": "Virginia Stănescu",
+    "cnp": "85097183539",
+    "nr_consultatii": 1,
+    "total_plata": 150.0
+  },
+  {
+    "id": 307,
+    "nume": "Zamfir Tabacu",
+    "cnp": "79234240819",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  },
+  {
+    "id": 329,
+    "nume": "Zeno Aanei",
+    "cnp": "92949941236",
+    "nr_consultatii": 0,
+    "total_plata": 0.0
+  }
+]

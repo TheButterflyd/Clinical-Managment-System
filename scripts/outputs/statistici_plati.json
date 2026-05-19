@@ -1,0 +1,17 @@
+[
+  {
+    "luna": "2026-03",
+    "numar_plati": 34,
+    "valoare_medie": 255.882353
+  },
+  {
+    "luna": "2026-02",
+    "numar_plati": 33,
+    "valoare_medie": 327.272727
+  },
+  {
+    "luna": "2026-01",
+    "numar_plati": 3,
+    "valoare_medie": 250.0
+  }
+]

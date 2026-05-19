@@ -1,0 +1,82 @@
+[
+  {
+    "nume_medic": "Dr. Medic_6",
+    "total_consultatii": 5
+  },
+  {
+    "nume_medic": "Dr. Georgescu",
+    "total_consultatii": 3
+  },
+  {
+    "nume_medic": "Dr. Stancu",
+    "total_consultatii": 2
+  },
+  {
+    "nume_medic": "Dr. Aanei",
+    "total_consultatii": 2
+  },
+  {
+    "nume_medic": "Dr. Medic_8",
+    "total_consultatii": 2
+  },
+  {
+    "nume_medic": "Dr. Popescu",
+    "total_consultatii": 2
+  },
+  {
+    "nume_medic": "Dr. Medic_10",
+    "total_consultatii": 2
+  },
+  {
+    "nume_medic": "Dr. Medic_2",
+    "total_consultatii": 2
+  },
+  {
+    "nume_medic": "Dr. Medic_9",
+    "total_consultatii": 1
+  },
+  {
+    "nume_medic": "Dr. Medic_5",
+    "total_consultatii": 1
+  },
+  {
+    "nume_medic": "Dr. Medic_1",
+    "total_consultatii": 1
+  },
+  {
+    "nume_medic": "Dr. Stănescu",
+    "total_consultatii": 1
+  },
+  {
+    "nume_medic": "Dr. Medic_5",
+    "total_consultatii": 1
+  },
+  {
+    "nume_medic": "Dr. Medic_3",
+    "total_consultatii": 1
+  },
+  {
+    "nume_medic": "Dr. Medic_6",
+    "total_consultatii": 1
+  },
+  {
+    "nume_medic": "Dr. Medic_1",
+    "total_consultatii": 1
+  },
+  {
+    "nume_medic": "Dr. Medic_7",
+    "total_consultatii": 1
+  },
+  {
+    "nume_medic": "Dr. Tudor",
+    "total_consultatii": 1
+  },
+  {
+    "nume_medic": "Dr. Medic_4",
+    "total_consultatii": 1
+  },
+  {
+    "nume_medic": "Dr. Medic_7",
+    "total_consultatii": 1
+  }
+]

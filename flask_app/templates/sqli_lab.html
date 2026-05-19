@@ -1,0 +1,149 @@
+{% extends "base.html" %}
+{% block content %}
+<div style="max-width: 1000px; margin: 40px auto; padding: 20px; font-family: sans-serif; color: #e2e8f0;">
+
+    <div style="background: #1e1e2e; padding: 30px; border-radius: 12px; border: 1px solid #3b3b4f; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+        <h2 style="color: #ffffff; margin-top: 0; display: flex; align-items: center; gap: 10px;">
+            Laborator de Testare SQL Injection (Sistem Medical)
+        </h2>
+        <p style="color: #94a3b8; font-size: 0.95rem;">
+            Acest mediu vă permite să simulați atacuri cibernetice pe baza de date a clinicii.
+            Modul <strong style="color: #ef4444;">UNSAFE</strong> concatenează direct textul în interogare, permițând
+            injecția de cod SQL.
+        </p>
+
+        <hr style="border: 0; border-top: 1px solid #3b3b4f; margin: 25px 0;">
+
+        <form id="sqliForm" style="display: flex; flex-direction: column; gap: 15px;">
+            <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px;">
+                <div>
+                    <label style="display: block; margin-bottom: 5px; color: #cbd5e1; font-size: 0.9rem;">Selectează
+                        Tabela:</label>
+                    <select id="tableSelect" name="table"
+                            style="width: 100%; background: #2d2d3d; border: 1px solid #444; color: #fff; padding: 10px; border-radius: 6px;">
+                        {% for t in tables %}
+                        <option value="{{ t.name }}">{{ t.title }} ({{ t.name }})</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <div>
+                    <label style="display: block; margin-bottom: 5px; color: #cbd5e1; font-size: 0.9rem;">Câmp de
+                        filtrare (Scrie manual):</label>
+                    <input type="text" name="field" placeholder="Ex: cnp, email, nume" required
+                           style="width: 100%; background: #2d2d3d; border: 1px solid #444; color: #fff; padding: 10px; border-radius: 6px; box-sizing: border-box;">
+                </div>
+                <div>
+                    <label style="display: block; margin-bottom: 5px; color: #cbd5e1; font-size: 0.9rem;">Mod
+                        Execuție:</label>
+                    <select id="modeSelect" name="mode"
+                            style="width: 100%; background: #2d2d3d; border: 1px solid #ef4444; color: #ef4444; padding: 10px; border-radius: 6px; font-weight: bold; transition: all 0.2s ease;">
+                        <option value="safe" style="color: #4ded34;">SAFE (Parametrizat)</option>
+                        <option value="unsafe" style="color: #ef4444;" selected>UNSAFE (Vulnerabil la SQLi)</option>
+                    </select>
+                </div>
+            </div>
+
+            <div>
+                <label style="display: block; margin-bottom: 5px; color: #cbd5e1; font-size: 0.9rem;">Valoare căutată
+                    (Payload):</label>
+                <input type="text" name="value" placeholder="Ex: Popescu Ion sau ' OR '1'='1" required
+                       style="width: 100%; background: #2d2d3d; border: 1px solid #444; color: #fff; padding: 12px; border-radius: 6px; box-sizing: border-box;">
+            </div>
+
+
+            <style>
+                .btn-interogare {
+                    background: #2c2838;
+                    color: white;
+                    border: none;
+                    padding: 12px 20px;
+                    font-size: 1rem;
+                    font-weight: bold;
+                    border-radius: 6px;
+                    cursor: pointer;
+                    margin-top: 10px;
+                    transition: background 0.2s ease, transform 0.1s ease;
+                }
+
+
+                .btn-interogare:hover {
+                    background: #ff4a4a;
+                }
+
+                .btn-interogare:active {
+                    background: #b91c1c;
+                    transform: scale(0.98);
+                }
+            </style>
+            <button type="submit" class="btn-interogare">
+                Rulează Interogarea
+            </button>
+        </form>
+
+        <div id="resultBox"
+             style="display: none; margin-top: 30px; background: #151522; padding: 20px; border-radius: 8px; border: 1px solid #333;">
+            <h4 style="margin-top: 0; color: #ffffff;">Interogarea SQL generată în spate:</h4>
+            <pre id="sqlQuery"
+                 style="background: #000; padding: 12px; border-radius: 6px; color: #38bdf8; overflow-x: auto; font-family: monospace; font-size: 0.95rem;"></pre>
+
+            <h4 style="color: #ffffff; margin-top: 20px;">Rezultate întoarse de bază (MariaDB):</h4>
+            <div id="tableContainer" style="overflow-x: auto; background: #1e1e2e; border-radius: 6px;"></div>
+        </div>
+    </div>
+</div>
+<script>
+    document.getElementById('sqliForm').addEventListener('submit', function (e) {
+        e.preventDefault();
+        const formData = new FormData(this);
+
+        fetch('/api/sqli/query', {
+            method: 'POST',
+            body: formData
+        })
+            .then(res => res.json())
+            .then(data => {
+                const resultBox = document.getElementById('resultBox');
+                const sqlQuery = document.getElementById('sqlQuery');
+                const tableContainer = document.getElementById('tableContainer');
+
+                resultBox.style.display = 'block';
+
+                if (data.ok) {
+                    sqlQuery.textContent = data.sql;
+                    sqlQuery.style.color = data.mode === 'unsafe' ? '#ef4444' : '#10b981';
+
+                    if (data.count === 0) {
+                        tableContainer.innerHTML = '<p style="padding: 15px; color: #94a3b8; margin: 0;">Niciun rând returnat.</p>';
+                    } else {
+                        let html = '<table style="width:100%; border-collapse: collapse; text-align: left; font-size: 0.9rem;">';
+                        html += '<tr style="background: #2d2d3d; color: #a78bfa;">';
+                        data.columns.forEach(c => html += `<th style="padding: 10px; border-bottom: 2px solid #3b3b4f;">${c}</th>`);
+                        html += '</tr>';
+
+                        data.rows.forEach(row => {
+                            html += '<tr style="border-bottom: 1px solid #2d2d3d;">';
+                            row.forEach(cell => html += `<td style="padding: 10px; color: #cbd5e1;">${cell !== null ? cell : '<i style="color:#666">NULL</i>'}</td>`);
+                            html += '</tr>';
+                        });
+                        html += '</table>';
+                        tableContainer.innerHTML = html;
+                    }
+                } else {
+                    sqlQuery.textContent = 'EROARE SQL!';
+                    tableContainer.innerHTML = `<div style="padding: 15px; color: #ef4444; background: rgba(239,68,68,0.1); border-radius: 6px; font-family: monospace;">${data.error}</div>`;
+                }
+            });
+    });
+    const modeSelect = document.getElementById('modeSelect');
+
+    modeSelect.addEventListener('change', function () {
+        if (this.value === 'safe') {
+            this.style.color = '#4ded34';
+            this.style.borderColor = '#4ded34';
+        } else {
+            this.style.color = '#ef4444';
+            this.style.borderColor = '#ef4444';
+        }
+    });
+</script>
+{% endblock %}

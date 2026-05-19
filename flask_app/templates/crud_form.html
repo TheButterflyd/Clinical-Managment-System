@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% set title = table_cfg["title"] ~ " - " ~ ("Create" if mode=="create" else "Edit") %}
+
+{% block content %}
+  <div class="page-head">
+    <div>
+      <h1>{{ table_cfg["title"] }} • {{ "Create" if mode=="create" else "Edit" }}</h1>
+      <p class="muted">
+        {% if mode=="create" %}Completeaza campurile si salveaza.{% else %}Modifica doar campurile permise.{% endif %}
+      </p>
+    </div>
+    <a class="btn btn-ghost" href="{{ url_for('crud_list', table=table) }}">Back</a>
+  </div>
+
+  <div class="panel">
+    <form method="post" class="form">
+      {% for f in fields %}
+        <label>{{ f }}</label>
+
+        {% if fk_options and f in fk_options %}
+          <select name="{{ f }}">
+            {% for val, label in fk_options[f] %}
+              <option value="{{ val }}"
+                {% if values.get(f) == val or values.get(f) == (val|int) %}selected{% endif %}>
+                {{ val }} - {{ label }}
+              </option>
+            {% endfor %}
+          </select>
+
+        {% elif choices and f in choices %}
+          <select name="{{ f }}">
+            {% for opt in choices[f] %}
+              <option value="{{ opt }}" {% if values.get(f) == opt %}selected{% endif %}>{{ opt }}</option>
+            {% endfor %}
+          </select>
+
+        {% else %}
+          <input name="{{ f }}" value="{{ values.get(f, '') }}" placeholder="{{ f }}">
+        {% endif %}
+      {% endfor %}
+
+      <div class="actions">
+        <button class="btn" type="submit">{{ "Create" if mode=="create" else "Save" }}</button>
+        <a class="btn btn-ghost" href="{{ url_for('crud_list', table=table) }}">Cancel</a>
+      </div>
+    </form>
+
+    {% if mode=="edit" %}
+      <p class="muted" style="margin-top:12px;">ID: <b>{{ rec_id }}</b></p>
+    {% endif %}
+  </div>
+{% endblock %}
