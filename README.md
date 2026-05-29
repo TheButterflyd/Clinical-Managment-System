@@ -1,12 +1,14 @@
-### CLINICAL- MANAGMENT SYSTEM 
+<div align="center">
+# CLINICAL- MANAGMENT SYSTEM 
+</div>
 This project is a robust digital platform designed to streamline and automate workflows within a medical clinic. It centralizes administrative tasks, facilitating communication between medical staff and patients while providing an organized structure for managing appointments, patient databases, and medical specializations. The system addresses common operational challenges such as scheduling conflicts and fragmented information across departments. 
-# Key Features
+## Key Features
 * Centralized Patient Management: A unified database utilizing CNP (Personal Numeric Code) for accurate patient identification and medical history tracking.
 *  Automated Scheduling: A booking module that connects patients with specific doctors at precise times, effectively preventing scheduling conflicts.
 *  Medical Staff Administration: A structured system to register doctors and classify them by specialization (e.g., Cardiology, Neurology, Pediatrics).
 *  Business Intelligence & Reporting: Automated generation of professional reports in PDF, CSV, and JSON formats, including visual performance analytics.
 *  Audit & Security: Advanced security features, including bcrypt password hashing, Fernet symmetric encryption for sensitive data, and comprehensive activity logging.
-# Technologies Used:
+## Technologies Used:
 * Backend: Python
 * Web Framework: Flask
 * Database: MariaDB (containerized via Docker)
