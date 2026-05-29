@@ -20,3 +20,4 @@ This project is a robust digital platform designed to streamline and automate wo
 * Database Layer: A centralized db.py layer manages connections, executing secure, parameterized SQL queries to prevent SQL Injection vulnerabilities.
 * Data Integrity: Enforced through foreign key constraints, triggers for validation (e.g., preventing negative invoice sums), and automated verification scripts (check_tables.py).
 * Performance: Optimized via database indexing on frequently queried columns (e.g., CNP, Specialization).
+This project was developed as a finalized technical verification for the Faculty of Industrial Engineering and Robotics, UPB, 2026.
