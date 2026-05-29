@@ -1,5 +1,4 @@
-
-                                                          # CLINICAL- MANAGMENT SYSTEM 
+# CLINICAL- MANAGMENT SYSTEM 
 
 This project is a robust digital platform designed to streamline and automate workflows within a medical clinic. It centralizes administrative tasks, facilitating communication between medical staff and patients while providing an organized structure for managing appointments, patient databases, and medical specializations. The system addresses common operational challenges such as scheduling conflicts and fragmented information across departments. 
 ## Key Features
