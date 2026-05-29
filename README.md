@@ -14,4 +14,9 @@ This project is a robust digital platform designed to streamline and automate wo
 * Infrastructure as Code: Docker Compose
 * Data Analysis & Visualization: Matplotlib, ReportLab
 * Security: cryptography (Fernet), bcrypt
-* Environment Management: python-dotenvTechnical ArchitectureOrchestration: Microservices managed via docker-compose.yml ensure a deterministic and reproducible execution environment.  Database Layer: A centralized db.py layer manages connections, executing secure, parameterized SQL queries to prevent SQL Injection vulnerabilities.  Data Integrity: Enforced through foreign key constraints, triggers for validation (e.g., preventing negative invoice sums), and automated verification scripts (check_tables.py).  Performance: Optimized via database indexing on frequently queried columns (e.g., CNP, Specialization).
+* Environment Management: python-dotenv
+## Technical Architecture:
+* Orchestration: Microservices managed via docker-compose.yml ensure a deterministic and reproducible execution environment.
+* Database Layer: A centralized db.py layer manages connections, executing secure, parameterized SQL queries to prevent SQL Injection vulnerabilities.
+* Data Integrity: Enforced through foreign key constraints, triggers for validation (e.g., preventing negative invoice sums), and automated verification scripts (check_tables.py).
+* Performance: Optimized via database indexing on frequently queried columns (e.g., CNP, Specialization).
